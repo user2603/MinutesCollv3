@@ -4,7 +4,7 @@
 - **Date:** 2026-10-19
 - **Type:** incident-review
 - **Facilitator:** Elena Sokolova
-- **Attendees:** 9
+- **Attendees:** 17
 - **Duration (minutes):** 40
 
 ## Agenda
